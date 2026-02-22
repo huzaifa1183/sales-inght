@@ -1,0 +1,31 @@
+Date,Product,Category,QTY,Unit Price,Unit Cost,Revenue,Profit
+2025-01-02,Wireless Mouse,Electronics,12,15,9.0,180,72.0
+2025-01-03,Notebook,Stationery,25,3,1.5,75,37.5
+2025-01-04,Bluetooth Speaker,Electronics,8,40,25.0,320,120.0
+2025-01-05,Water Bottle,Home,20,10,6.0,200,80.0
+2025-01-06,Desk Lamp,Home,10,22,14.0,220,80.0
+2025-01-07,USB Cable,Electronics,30,5,2.0,150,90.0
+2025-01-08,Backpack,Bags,6,35,22.0,210,78.0
+2025-01-09,Pen Pack,Stationery,18,6,3.0,108,54.0
+2025-01-10,Office Chair,Furniture,4,120,85.0,480,140.0
+2025-01-11,Keyboard,Electronics,9,28,18.0,252,90.0
+2025-01-12,Table Organizer,Stationery,14,12,7.0,168,70.0
+2025-01-13,LED Monitor,Electronics,3,180,140.0,540,120.0
+2025-01-14,Coffee Mug,Home,16,8,4.0,128,64.0
+2025-01-15,External Hard Drive,Electronics,5,95,70.0,475,125.0
+2025-01-16,Stapler,Stationery,11,7,3.5,77,38.5
+2025-01-17,Notebook Stand,Accessories,7,25,15.0,175,70.0
+2025-01-18,Power Bank,Electronics,13,30,20.0,390,130.0
+2025-01-19,Wall Clock,Home,9,18,11.0,162,63.0
+2025-01-20,Marker Set,Stationery,15,9,4.5,135,67.5
+2025-01-21,Printer,Electronics,2,210,170.0,420,80.0
+2025-01-22,Travel Bag,Bags,5,60,42.0,300,90.0
+2025-01-23,Desk Mat,Accessories,12,14,8.0,168,72.0
+2025-01-24,Calculator,Electronics,10,20,12.0,200,80.0
+2025-01-25,File Folder,Stationery,22,4,2.0,88,44.0
+2025-01-26,Smart Watch,Electronics,4,150,110.0,600,160.0
+2025-01-27,Headphones,Electronics,8,55,35.0,440,160.0
+2025-01-28,Storage Box,Home,13,16,9.0,208,91.0
+2025-01-29,Whiteboard,Office,3,75,50.0,225,75.0
+2025-01-30,Desk Fan,Home,6,32,21.0,192,66.0
+2025-01-31,Tablet Stand,Accessories,9,19,11.0,171,72.0
